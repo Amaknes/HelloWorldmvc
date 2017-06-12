@@ -7,4 +7,5 @@
   </parent>
   <artifactId>helloworldmvc.contract</artifactId>
   <name>Contract</name>
+  <version>0.0.1-SNAPSHOT</version>
 </project>
